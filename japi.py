@@ -12,6 +12,7 @@ def getStockData(stockSymbol):
     f.write(responseString)
     f.write("The current price of " +api+" is "+pd['Stock Quotes'][0]['2. price'])
     f.close()
+    print("Stock Quotes retrieved successfully!")
 
 def main():
     while True:
