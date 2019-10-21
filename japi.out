@@ -1,0 +1,73 @@
+{
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "TSLA",
+            "2. price": "256.9850",
+            "3. volume": "--",
+            "4. timestamp": "2019-10-18 15:59:59"
+        }
+    ]
+}The current price of TSLA is 256.9850{
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "AAPL",
+            "2. price": "236.4200",
+            "3. volume": "--",
+            "4. timestamp": "2019-10-18 16:12:50"
+        }
+    ]
+}The current price of AAPL is 236.4200{
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "IBM",
+            "2. price": "134.1900",
+            "3. volume": "--",
+            "4. timestamp": "2019-10-18 15:59:31"
+        }
+    ]
+}The current price of IBM is 134.1900
+{
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "GM",
+            "2. price": "36.1800",
+            "3. volume": "--",
+            "4. timestamp": "2019-10-18 15:59:57"
+        }
+    ]
+}The current price of GM is 36.1800
+{
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "PFE",
+            "2. price": "36.4800",
+            "3. volume": "--",
+            "4. timestamp": "2019-10-18 15:59:53"
+        }
+    ]
+}The current price of PFE is 36.4800
